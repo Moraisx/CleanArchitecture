@@ -1,2 +1,0 @@
-# CleanArchitecture
-Projeto Clean Architecture
