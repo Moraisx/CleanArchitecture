@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepositoryCleanArchitecture.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44b5b1d76aebf965aa8e51c71d6017d0b01bd601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb7e118ea59a9981a7fd73e76d74409497f8f629")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepositoryCleanArchitecture.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepositoryCleanArchitecture.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
