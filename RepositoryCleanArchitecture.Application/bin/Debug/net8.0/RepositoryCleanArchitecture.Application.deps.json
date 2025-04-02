@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepositoryCleanArchitecture.Application/1.0.0": {
+        "dependencies": {
+          "RepositoryCleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryCleanArchitecture.Application.dll": {}
+        }
+      },
+      "RepositoryCleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "RepositoryCleanArchitecture.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepositoryCleanArchitecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryCleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

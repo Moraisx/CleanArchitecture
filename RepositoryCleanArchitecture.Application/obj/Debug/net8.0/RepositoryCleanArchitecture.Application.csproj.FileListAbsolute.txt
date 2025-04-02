@@ -1,0 +1,15 @@
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\bin\Debug\net8.0\RepositoryCleanArchitecture.Application.deps.json
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\bin\Debug\net8.0\RepositoryCleanArchitecture.Application.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\bin\Debug\net8.0\RepositoryCleanArchitecture.Application.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\Reposito.A8DB4673.Up2Date
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\refint\RepositoryCleanArchitecture.Application.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\RepositoryCleanArchitecture.Application.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Application\obj\Debug\net8.0\ref\RepositoryCleanArchitecture.Application.dll

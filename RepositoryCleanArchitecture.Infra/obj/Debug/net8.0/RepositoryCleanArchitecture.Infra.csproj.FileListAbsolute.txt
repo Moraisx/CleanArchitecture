@@ -1,0 +1,17 @@
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\bin\Debug\net8.0\RepositoryCleanArchitecture.Infra.deps.json
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\bin\Debug\net8.0\RepositoryCleanArchitecture.Infra.runtimeconfig.json
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\bin\Debug\net8.0\RepositoryCleanArchitecture.Infra.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\bin\Debug\net8.0\RepositoryCleanArchitecture.Infra.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.csproj.AssemblyReference.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.AssemblyInfoInputs.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.AssemblyInfo.cs
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\Reposito.A182A1E8.Up2Date
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\refint\RepositoryCleanArchitecture.Infra.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\RepositoryCleanArchitecture.Infra.genruntimeconfig.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Infra\obj\Debug\net8.0\ref\RepositoryCleanArchitecture.Infra.dll

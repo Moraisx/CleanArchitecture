@@ -1,0 +1,11 @@
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.deps.json
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\bin\Debug\net8.0\RepositoryCleanArchitecture.Domain.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\RepositoryCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\RepositoryCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\RepositoryCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\RepositoryCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\RepositoryCleanArchitecture.Domain.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\refint\RepositoryCleanArchitecture.Domain.dll
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\RepositoryCleanArchitecture.Domain.pdb
+C:\Users\Tiago\.NET\RepositoryCleanArchitecture\RepositoryCleanArchitecture.Domain\obj\Debug\net8.0\ref\RepositoryCleanArchitecture.Domain.dll

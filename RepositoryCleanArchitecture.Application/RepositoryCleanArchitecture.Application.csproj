@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\**" />
+    <Compile Remove="UseCases\UseCasesInterfaces\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <EmbeddedResource Remove="UseCases\UseCasesInterfaces\**" />
+    <None Remove="Services\**" />
+    <None Remove="UseCases\UseCasesInterfaces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RepositoryCleanArchitecture.Domain\RepositoryCleanArchitecture.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

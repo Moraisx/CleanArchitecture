@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RepositoryCleanArchitecture.Presentation.API.props" />
+</Project>
