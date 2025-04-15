@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RepositoryCleanArchitecture.Application\RepositoryCleanArchitecture.Application.csproj" />
     <ProjectReference Include="..\RepositoryCleanArchitecture.Domain\RepositoryCleanArchitecture.Domain.csproj" />
   </ItemGroup>
 

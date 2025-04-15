@@ -6,11 +6,12 @@ namespace RepositoryCleanArchitecture.Domain.ValueObject.Produto
     {
         public int Value { get; init; }
 
+        protected CategoriaProduto() { }
+
         private CategoriaProduto(int categoria)
         {
             Value = categoria;
         }
-        public static CategoriaProduto CriarParaEF(int categoria) => new CategoriaProduto(categoria);
         public static CategoriaProduto CriarCategoriaProduto(int categoria, List<DefaultError> listDefaultErros)
         {
             if (categoria <= 0)

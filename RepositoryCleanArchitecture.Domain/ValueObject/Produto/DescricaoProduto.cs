@@ -11,11 +11,11 @@ namespace RepositoryCleanArchitecture.Domain.ValueObject.Produto
     {
         public string Descricao { get; init; }
 
+        protected DescricaoProduto() { }
         private DescricaoProduto(string descricao)
         {
             Descricao = descricao;
         }
-        public static DescricaoProduto CriarParaEF(string descricao) => new DescricaoProduto(descricao);
         public static DescricaoProduto CriarDescricaoProduto(string descricao, List<DefaultError> listDefaultErros)
         {
             if (string.IsNullOrEmpty(descricao))

@@ -13,7 +13,7 @@ namespace RepositoryCleanArchitecture.Domain.Exceptions
         }
 
         public DefaultExceptionHandler(DefaultError error) : base("Exceções")
-         {
+        {
             Error = error;
         }
 

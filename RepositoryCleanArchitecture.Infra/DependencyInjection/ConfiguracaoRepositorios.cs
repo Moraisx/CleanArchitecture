@@ -1,6 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using RepositoryCleanArchitecture.Domain.Interfaces.ICategoria;
 using RepositoryCleanArchitecture.Domain.Interfaces.IProduto;
+using RepositoryCleanArchitecture.Domain.Interfaces.IUnitOfWork;
+using RepositoryCleanArchitecture.Infra.Data.UnitOfWork;
 using RepositoryCleanArchitecture.Infra.Repositories;
 
 namespace RepositoryCleanArchitecture.Infra
@@ -13,6 +15,7 @@ namespace RepositoryCleanArchitecture.Infra
             services.AddScoped<ICriarProduto, ProdutoRepositorio>();
             services.AddScoped<IBuscarTodasCategorias, CategoriaRepositorio>();
             services.AddScoped<ICriarCategoria, CategoriaRepositorio>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             return services;
         }

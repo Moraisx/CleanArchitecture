@@ -1,4 +1,5 @@
 using RepositoryCleanArchitecture.Infra;
+using RepositoryCleanArchitecture.Infra.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,7 @@ builder.Services.AddSwaggerGen();
 // Configuração da camada de infraestrutura como banco e container de injeção de dependência
 builder.Services.AdicionarBancoDados();
 builder.Services.AdicionarRepositorios();
+builder.Services.AdicionarServices();
 
 var app = builder.Build();
 app.UseMiddleware<ExceptionMiddleware>();

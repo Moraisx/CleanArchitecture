@@ -15,26 +15,29 @@ namespace RepositoryCleanArchitecture.Infra.Data.Mappings
 
             entity.HasKey(p => p.Id);
 
-            entity.Property(p => p.Nome)
-                .HasConversion(
-                    v => v.Nome,
-                    v => NomeProduto.CriarParaEF(v))
-                .IsRequired()
-                .HasMaxLength(100);
+            entity.OwnsOne(p => p.Nome, nome =>
+            {
+                nome.Property(n => n.Nome)
+                    .IsRequired()
+                    .HasMaxLength(100);
+            });
 
-            entity.Property(p => p.Categoria)
-              .HasConversion(
-                  v => v.Value,                   
-                  v => CategoriaProduto.CriarParaEF(v));  
+            entity.OwnsOne(p => p.Categoria, categoria =>
+            {
+                categoria.Property(n => n.Value)
+                    .IsRequired()
+                    .HasMaxLength(100);
+            });
 
             entity.Property(p => p.Ativo)
                 .IsRequired();
 
-            entity.Property(p => p.Descricao)
-                .HasConversion(
-                    v => v.Descricao,
-                    v => DescricaoProduto.CriarParaEF(v))
-                    .HasMaxLength(255);
+            entity.OwnsOne(p => p.Descricao, descricao =>
+            {
+                descricao.Property(n => n.Descricao)
+                .IsRequired()
+                .HasMaxLength(255);
+            });
         }
     }
 }

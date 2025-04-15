@@ -19,6 +19,7 @@ namespace RepositoryCleanArchitecture.Domain.Entities
 
         public DescricaoProduto Descricao { get; private set; }
 
+        protected Produto() { }
         private Produto(NomeProduto nome, CategoriaProduto categoria, bool ativo, DescricaoProduto descricao)
         {
             Nome = nome;

@@ -1,23 +1,18 @@
 using Microsoft.AspNetCore.Mvc;
 using RepositoryCleanArchitecture.Application.DTOs.ProdutoDTO;
 using RepositoryCleanArchitecture.Domain.Entities;
-using RepositoryCleanArchitecture.Domain.Interfaces.IProduto;
-using RepositoryCleanArchitecture.Domain.ValueObject.Produto;
+using RepositoryCleanArchitecture.Domain.Interfaces.IProdutoService;
 
 namespace RepositoryCleanArchitecture.Presentation.API.Controllers;
-
 
 [ApiController]
 [Route("[controller]")]
 public class ProdutoController : ControllerBase
 {
-    private readonly IBuscarTodosProdutos _buscarTodosProdutos;
-    private readonly ICriarProduto _criarProduto;
-
-    public ProdutoController(IBuscarTodosProdutos buscarTodosProdutos, ICriarProduto criarProduto)
+    private readonly IProdutoService _produtoService;
+    public ProdutoController(IProdutoService produtoService)
     {
-        _buscarTodosProdutos = buscarTodosProdutos;
-        _criarProduto = criarProduto;
+        _produtoService = produtoService;
     }
 
     [HttpGet]
@@ -25,7 +20,7 @@ public class ProdutoController : ControllerBase
     {
         try
         {
-            var produtos = await _buscarTodosProdutos.ObterTodosProdutos(skip, take);
+            var produtos = await _produtoService.ObterTodosProdutos(skip, take);
 
             var produtosDTO = produtos.Select(produto => new ProdutoDTO(
                 produto.Id,
@@ -53,7 +48,7 @@ public class ProdutoController : ControllerBase
             produtoDTO.Ativo, 
             produtoDTO.Descricao);
 
-        await _criarProduto.CriarProduto(produto);
+        await _produtoService.CriarProduto(produto);
         
         var produtoRetornoDTO = new ProdutoDTO(
             produto.Id,
